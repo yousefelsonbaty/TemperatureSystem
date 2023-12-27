@@ -1,6 +1,5 @@
 # Temperature System
-The temperature system would let the user know if the room is cold, hot, or warm; if the room is hot, a sound will play from the buzzer. 
-The temperature system would benefit the users in many ways, and the benefits below show why it is important to build a temperature system:
+The temperature system would let the user know if the room is cold, hot, or warm; if the room is hot, a sound will play from the buzzer, and it would benefit the users in many ways, and the benefits below show why it is important to build a temperature system:
 - Comfort – Allowing users to regulate the room temperature according to their preferences.
 - Energy sufficiency – Helping users save energy and avoid unnecessary energy loss, leading to cost savings.
 - Users’ health/well-being – Could maintain temperatures that could help prevent cold or heat-related issues such as hypothermia or heatstroke.
